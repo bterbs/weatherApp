@@ -1,0 +1,19 @@
+{
+  "name": "brittany",
+  "version": "1.0.0",
+  "description": "",
+  "main": "weather.js",
+  "dependencies": {
+    "eslint": "^4.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
